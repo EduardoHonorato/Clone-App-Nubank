@@ -14,7 +14,7 @@ npm install
 ```
 
 ## Usage
-You must have the [expo app](https://expo.io) in your smartphone ou emulator.
+You must have the [expo app](https://expo.io) in your smartphone or emulator.
 After instalation the dependencies and expo app, run the command in your terminal
 
 ```bash
