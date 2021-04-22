@@ -1,0 +1,23 @@
+{
+  "expo": {
+    "name": "Nubank",
+    "slug": "Nubank",
+    "version": "1.0.0",
+    "orientation": "portrait",
+    "icon": "./src/images/Nubank_Logo.png",
+    "splash": {
+      "image": "./src/images/Nubank_Logo.png",
+      "resizeMode": "contain",
+      "backgroundColor": "#8b10ae"
+    },
+    "updates": {
+      "fallbackToCacheTimeout": 0
+    },
+    "assetBundlePatterns": [
+      "**/*"
+    ],
+    "ios": {
+      "supportsTablet": true
+    }
+  }
+}
